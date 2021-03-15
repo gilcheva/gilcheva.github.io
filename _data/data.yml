@@ -52,7 +52,6 @@ career-profile:
     During the course I have created three projects with my team-mate.
     My previous experience is in the area of management of European funds.
     I am currently looking for a career shift in the IT sector.
-#    Donec quam felis, ultricies nec, pellentesque eu.
 #    Second paragraph if required.
 education:
   - degree: MSc in Business Administration
@@ -60,16 +59,14 @@ education:
     time: 2000 - 2001
     details: |
       Strategic Management
-      - Graduated with Honours
-#            - Bullet point
+#      - Graduated with Honours
+            - Graduated with Honours
   - degree: BSc in Business Administration
     university: Sofia University "St.Kliment Ohridski"
     time: 1996 - 2000
-    details: |
-      Main subjects - Management, Economics, Accounting, IT, Statistics,
-      English, German, Italian
-#        - Bullet point
-#        - Bullet point
+    details: Main subjects
+        - Management, Economics, Accounting, IT, Statistics
+        - English, German, Italian
 experiences:
   - role: Lead Developer
     time: 2015 - Present
