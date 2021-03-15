@@ -59,12 +59,13 @@ education:
     time: 2000 - 2001
     details: |
       Strategic Management
-#      - Graduated with Honours
-            - Graduated with Honours
+#            - Graduated with Honours
+      - Graduated with Honours
   - degree: BSc in Business Administration
     university: Sofia University "St.Kliment Ohridski"
     time: 1996 - 2000
-    details: Main subjects
+    details: |
+      Main subjects
         - Management, Economics, Accounting, IT, Statistics
         - English, German, Italian
 experiences:
