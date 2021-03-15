@@ -3,7 +3,7 @@
 #
 
 sidebar:
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -48,29 +48,28 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    I have passed a 6-month course for fullstack developers with Java to the Telerik Academy.
+    During the course I have created three projects with my team-mate.
+    My previous experience is in the area of management of European funds.
+    I am currently looking for a career shift in the IT sector.
+#    Donec quam felis, ultricies nec, pellentesque eu.
+#    Second paragraph if required.
 education:
   - degree: MSc in Business Administration
     university: Sofia University "St.Kliment Ohridski"
     time: 2000 - 2001
     details: |
       Strategic Management
-      #        pretium quis, sem.
       - Graduated with Honours
-  #          - Bullet point
+#            - Bullet point
   - degree: BSc in Business Administration
     university: Sofia University "St.Kliment Ohridski"
     time: 1996 - 2000
     details: |
       Main subjects - Management, Economics, Accounting, IT, Statistics,
       English, German, Italian
-        - Bullet point
-        - Bullet point
+#        - Bullet point
+#        - Bullet point
 experiences:
   - role: Lead Developer
     time: 2015 - Present
