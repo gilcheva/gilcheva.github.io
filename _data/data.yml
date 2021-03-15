@@ -54,29 +54,32 @@ career-profile:
     I am currently looking for a career shift in the IT sector.
 #    Second paragraph if required.
 education:
-  - degree: Telerik Academy
-    - university: Alpha Java Track
-    - time: 12/2019 – 05/2020
-    - details:
-#      - Graduated with Honours
-#      - Graduated with Honours
+  - degree: Alpha Java Track
+    university: Telerik Academy
+    time: 12/2019 – 05/2020
+    details: |
+      Fullstack develloper
+        - Java
+        - GIT
   - degree: MSc in Business Administration
-    - university: Sofia University "St.Kliment Ohridski"
-    - time: 10/2000 - 06/2001
-    - details: Strategic Management
-      - Graduated with Honours
-      - Graduated with Honours
+    university: Sofia University "St.Kliment Ohridski"
+    time: 10/2000 - 06/2001
+    details: |
+      Strategic Management
+        - Graduated with Honours
   - degree: BSc in Business Administration
-    - university: Sofia University "St.Kliment Ohridski"
-    - time: 10/1996 – 09/2000
-    - details: Main subjects
-      - Management, Economics, Accounting, IT, Statistics
-      - English, German, Italian
-   - degree: Mathematical High School “At. Radev” - Yambol
-#     university: Sofia University "St.Kliment Ohridski"
-     - time: 10/1991 – 05/1996
-     - details: Main subjects
-       - Mathematics, English
+    university: Sofia University "St.Kliment Ohridski"
+    time: 10/1996 – 09/2000
+    details: |
+      Main subjects
+        - Management, Economics, Accounting, IT, Statistics
+        - English, German, Italian
+  - degree: Mathematical High School “At. Radev”
+    university: Yambol
+    time: 10/1991 – 05/1996
+    details: |
+      Main subjects
+        - Mathematics, English
 experiences:
   - role: Lead Developer
     time: 2015 - Present
