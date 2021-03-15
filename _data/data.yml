@@ -86,43 +86,43 @@ education:
       Main subjects
         - Mathematics, English
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Senior Expert in AgriMarket Mechanisms Department
+    time: June 2015 - Present
+    company: Paying Agency
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      Methodological preparation and follow-up of EAGF market measures in Bulgaria:
+        - Updating methodology and working manuals;
+        - Preparation of reports, analysis and written communication;
+        - Budgeting and forecast preparation.
+  - role: Senior Expert in Arable Crops Sector
+    time: Sept. 2008 - May 2015
+    company: Paying Agency
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      Implementation of Arable crops measures in Bulgaria
+        - Analyses of business plans;
+        - Contract management;
+        - Monitoring;
+        - Budgeting and forecast preparation;
+        - Filling in forms in the databases of PA and of the European Commission;
+  - role: Manager
+    time: Aug. 2007 - Aug. 2008
+    company: Regional Paying Agency - Sofia-city
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Front-office implementation of PA measures on a regional level
+        - Managing the work of a team of 3 people;
+        - Serving 20-50 people per day – check of documents, consulting;
+        - Processing data in the database IACS (including GIS module);
+        - Management reporting.
+  - role: Expert, Senior Expert
+      time: Jan. 2001 - July 2007
+      company: SAPARD Agency
+      details: |
+        Implementation of The Special Accession Programme for Agricultural and Rural Development (SAPARD)
+          - Investment and public projects assessment;
+          - Public presentations of the SAPARD Program;
+          - Testing new databases;
+          - Introduction and training of new staff;
+          - Preparation of contracts, reports, analysis and letters.
 projects:
   title: Projects
   intro: >
