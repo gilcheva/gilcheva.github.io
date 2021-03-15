@@ -114,15 +114,15 @@ experiences:
         - Processing data in the database IACS (including GIS module);
         - Management reporting.
   - role: Expert, Senior Expert
-      time: Jan. 2001 - July 2007
-      company: SAPARD Agency
-      details: |
-        Implementation of The Special Accession Programme for Agricultural and Rural Development (SAPARD)
-          - Investment and public projects assessment;
-          - Public presentations of the SAPARD Program;
-          - Testing new databases;
-          - Introduction and training of new staff;
-          - Preparation of contracts, reports, analysis and letters.
+    time: Jan. 2001 - July 2007
+    company: SAPARD Agency
+    details: |
+      Implementation of The Special Accession Programme for Agricultural and Rural Development (SAPARD)
+        - Investment and public projects assessment;
+        - Public presentations of the SAPARD Program;
+        - Testing new databases;
+        - Introduction and training of new staff;
+        - Preparation of contracts, reports, analysis and letters.
 projects:
   title: Projects
   intro: >
