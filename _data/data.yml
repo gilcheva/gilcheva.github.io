@@ -57,6 +57,9 @@ education:
   - degree: Telerik Academy
     university: Alpha Java Track
     time: 12/2019 – 05/2020
+    details:
+#      - Graduated with Honours
+#      - Graduated with Honours
   - degree: MSc in Business Administration
     university: Sofia University "St.Kliment Ohridski"
     time: 10/2000 - 06/2001
@@ -72,6 +75,8 @@ education:
    - degree: Mathematical High School “At. Radev” - Yambol
 #     university: Sofia University "St.Kliment Ohridski"
      time: 10/1991 – 05/1996
+     details: Main subjects
+       - Mathematics, English
 experiences:
   - role: Lead Developer
     time: 2015 - Present
