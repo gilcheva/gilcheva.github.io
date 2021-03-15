@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Galina Lambova
-  tagline: Java enthusiast
+  tagline: Future Java Develloper
   #    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -45,13 +45,18 @@ sidebar:
     - item: Foregin languages
       link:
 
+  volunteering:
+    - type: Apartment block management
+      description: Representative of 88 apartments
+      time: 10/2012 - 10/2015
+
 career-profile:
   title: Career Profile
   summary: |
-    I have passed a 6-month course for fullstack developers with Java to the Telerik Academy.
-    During the course I have created three projects with my team-mate.
+    I am a Junior Java Developer and I have completed recently [Start^IT academy](http://startit.bg)
+    I have also passed a 6-month course for fullstack developers to the Telerik Academy.
     My previous experience is in the area of management of European funds.
-    I am currently looking for a career shift in the IT sector.
+    I am currently looking for a career shift to the IT sector.
 #    Second paragraph if required.
 education:
   - degree: Alpha Java Track
