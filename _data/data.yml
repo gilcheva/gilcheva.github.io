@@ -131,28 +131,35 @@ projects:
     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
     - title: Add-ons Register (2020)
-      link: "#https://gitlab.com/lambova/addonis_of_dari_and_gali"
+      link: "https://gitlab.com/lambova/addonis_of_dari_and_gali"
       tagline: "Web application integrated with GitHub API:
         - provides download and upload of add-ons, tags and rating;
         - admin part to manage users and addons;
         Technologies: Java 8, Spring Security, Spring MVC,
         Spring Boot Framework, Thymeleaf, Hibernate."
 
-    - title: DevStudio
+    - title: Beer Tag (2020)
       link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
+      tagline: "Web application:
+      •	users can create a beer, view all beers, filter and sort them;
+      Technologies: Java 8, Spring Security, Spring MVC,
+      Spring Boot Framework,Thymeleaf, Hibernate."
 
-    - title: Tempo
+    - title: WIM console application (2020)
       link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      tagline: "Work-item management console application:
+      •	supports creation of multiple teams, members, boards and workitems:
+      bug, story and feedback;
+      •	provides operations like list all, filter, sort, add, change priority;
+      Technologies: Java 8, Unit testing."
 
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#    - title: Atom
+#      link: "#"
+#      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#    - title: Delta
+#      link: "#"
+#      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 #publications:
 #  title: Publications
