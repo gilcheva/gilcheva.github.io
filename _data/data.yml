@@ -53,7 +53,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I am a Junior Java Developer and I have completed recently [Start^IT academy](http://startit.bg)
+    I am a Junior Java Developer and I have completed recently [Start^IT academy](http://startit.bg).
     I have also passed a 6-month course for fullstack developers to the Telerik Academy.
     My previous experience is in the area of management of European funds.
     I am currently looking for a career shift to the IT sector.
@@ -130,9 +130,13 @@ projects:
     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: Add-ons Register (2020)
+      link: "#https://gitlab.com/lambova/addonis_of_dari_and_gali"
+      tagline: "Web application integrated with GitHub API:
+        - provides download and upload of add-ons, tags and rating;
+        - admin part to manage users and addons;
+        Technologies: Java 8, Spring Security, Spring MVC,
+        Spring Boot Framework, Thymeleaf, Hibernate."
 
     - title: DevStudio
       link: "#"
@@ -150,27 +154,27 @@ projects:
       link: "#"
       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-    - title: The Art of Computer Programming
-      link: "#"
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
-
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      link: "#"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    - title: A syntax directed compiler for Algol 60
-      link: "#"
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
+#publications:
+#  title: Publications
+#  intro: |
+#    You can list your publications in this section. Lorem ipsum dolor sit
+#    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#    bibendum fringilla a eu lectus.
+#  papers:
+#    - title: The Art of Computer Programming
+#      link: "#"
+#      authors: Donald E. Knuth
+#      conference: Addison-Wesley, 1968
+#
+#    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#      link: "#"
+#      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#    - title: A syntax directed compiler for Algol 60
+#      link: "#"
+#      authors: Edgar T. Irons
+#      conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
   title: Skills &amp; Proficiency
