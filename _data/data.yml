@@ -27,13 +27,16 @@ sidebar:
 
   languages:
     - idiom: Bulgarian
-      level: Native
+      level: C2
 
     - idiom: English
-      level: Professional
+      level: C1
 
     - idiom: French
-      level: Advanced
+      level: B1
+
+    - idiom: German
+      level: A2
 
   interests:
     - item: Coding
@@ -54,7 +57,7 @@ career-profile:
   title: Career Profile
   summary: |
     I am a Junior Java Developer and I have completed recently [Start^IT academy](http://startit.bg).
-    I have also passed a 6-month course for fullstack developers to the Telerik Academy.
+    I have also passed a 6-month course for fullstack developers to [the Telerik Academy](https://www.telerikacademy.com/).
     My previous experience is in the area of management of European funds.
     I am currently looking for a career shift in the area of my new passion.
 #    Second paragraph if required.
@@ -104,7 +107,7 @@ experiences:
         - Monitoring;
         - Budgeting and forecast preparation;
         - Filling in forms in the databases of PA and of the European Commission;
-  - role: Manager
+  - role: Expert, Senior expert - Manager
     time: Aug. 2007 - Aug. 2008
     company: Regional Paying Agency - Sofia-city
     details: |
