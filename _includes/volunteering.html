@@ -1,12 +1,12 @@
 {% assign volunteering = site.data.data.sidebar.volunteering %}
 {% if volunteering %}
-<div class="interests-container container-block">
+<div class="volunteering-container container-block">
 
   <h2 class="container-block-title">
     Volunteering
   </h2>
 
-  <ul class="list-unstyled interests-list">
+  <ul class="list-unstyled volunteering-list">
     {% for volunteering in volunteering %}
 
       {% if volunteering.link %}
@@ -18,5 +18,5 @@
     {% endfor %}
   </ul>
 
-</div><!--//interests-->
+</div><!--//volunteering-->
 {% endif %}
