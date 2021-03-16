@@ -56,7 +56,7 @@ career-profile:
     I am a Junior Java Developer and I have completed recently [Start^IT academy](http://startit.bg).
     I have also passed a 6-month course for fullstack developers to the Telerik Academy.
     My previous experience is in the area of management of European funds.
-    I am currently looking for a career shift to the IT sector.
+    I am currently looking for a career shift in the area of my new passion.
 #    Second paragraph if required.
 education:
   - degree: Alpha Java Track
@@ -126,10 +126,10 @@ experiences:
 projects:
   title: Projects
   intro: >
-    I have participated in the following assignments:
+    Here are the main assignments in which I have taken part during my programming courses:
   assignments:
     - title: Gossip talks (2021)
-      link: "#/ElitcaNovakova/gossip-talks"
+      link: "https://github.com/gilcheva/gossip-talks"
       tagline: "Web application integrated with GitHub API:
         • provides download and upload of add-ons, tags and rating;
         • admin part to manage users and addons;
@@ -193,23 +193,23 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Python & Django
-      level: 98%
+    - name: Java
+      level: 30%
 
-    - name: Javascript & jQuery
-      level: 98%
+    - name: OOP
+      level: 50%
 
-    - name: Angular
-      level: 98%
+    - name: HTML5 & CSS & JavaScript
+      level: 20%
 
-    - name: HTML5 & CSS
-      level: 95%
+    - name: Spring
+      level: 10%
 
-    - name: Ruby on Rails
-      level: 85%
+    - name: GIT
+      level: 50%
 
-    - name: Sketch & Photoshop
-      level: 60%
+    - name: IntelliJ IDEA
+      level: 80%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
