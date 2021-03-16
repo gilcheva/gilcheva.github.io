@@ -7,12 +7,12 @@
   </h2>
 
   <ul class="list-unstyled volunteering-list">
-    {% for volunteering in volunteering %}
+    {% for volunteer in volunteering %}
 
-      {% if volunteering.link %}
-      <li><a href="{{ volunteering.link }}">{{ volunteering.item }}</a></li>
+      {% if volunteer.link %}
+      <li><a href="{{ volunteer.link }}">{{ volunteer.item }}</a></li>
       {% else %}
-      <li>{{ volunteering.item }}</li>
+      <li>{{ volunteer.item }}</li>
       {% endif %}
 
     {% endfor %}
