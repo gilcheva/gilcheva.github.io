@@ -49,8 +49,8 @@ sidebar:
       link:
 
   volunteering:
-    - company: Apartment block management
-      role: Representative of 88 apartments
+    - role: Representative of 88 apartments
+      company: Apartment block management
       time: 10/2012 - 10/2015
 
 career-profile:
@@ -133,11 +133,10 @@ projects:
   assignments:
     - title: Gossip talks (2021)
       link: "https://github.com/gilcheva/gossip-talks"
-      tagline: "Web application integrated with GitHub API:
-        • provides download and upload of add-ons, tags and rating;
-        • admin part to manage users and addons;
-        Technologies: Java 8, Spring Security, Spring MVC,
-        Spring Boot Framework, Thymeleaf, Hibernate."
+      tagline: "Web application for chatting:
+        • provides posting and reading gossips;
+        • users can follow other users.
+        Technologies: Java 8, Spring Security, Spring Boot Framework."
 
     - title: Add-ons Register (2020)
       link: "https://gitlab.com/lambova/addonis_of_dari_and_gali"
