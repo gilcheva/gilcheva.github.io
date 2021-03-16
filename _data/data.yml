@@ -126,15 +126,21 @@ experiences:
 projects:
   title: Projects
   intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    I have participated in the following assignments:
   assignments:
+    - title: Gossip talks (2021)
+      link: "#/ElitcaNovakova/gossip-talks"
+      tagline: "Web application integrated with GitHub API:
+        • provides download and upload of add-ons, tags and rating;
+        • admin part to manage users and addons;
+        Technologies: Java 8, Spring Security, Spring MVC,
+        Spring Boot Framework, Thymeleaf, Hibernate."
+
     - title: Add-ons Register (2020)
       link: "https://gitlab.com/lambova/addonis_of_dari_and_gali"
       tagline: "Web application integrated with GitHub API:
-        - provides download and upload of add-ons, tags and rating;
-        - admin part to manage users and addons;
+        • provides download and upload of add-ons, tags and rating;
+        • admin part to manage users and addons;
         Technologies: Java 8, Spring Security, Spring MVC,
         Spring Boot Framework, Thymeleaf, Hibernate."
 
