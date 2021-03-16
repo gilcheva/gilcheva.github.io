@@ -6,17 +6,30 @@
     Volunteering
   </h2>
 
-  <ul class="list-unstyled interests-list">
-    {% for volunteer in volunteering %}
+  <!--  <ul class="list-unstyled interests-list">-->
+  {% for volunteer in volunteering %}
+  <div class="item">
 
-      {% if volunteer.link %}
-      <li><a href="{{ volunteer.link }}">{{ volunteer.item }}</a></li>
-      {% else %}
-      <li>{{ volunteer.item }}</li>
-      {% endif %}
+    <div class="meta">
 
-    {% endfor %}
-  </ul>
+      <div class="upper-row">
+        <h3 class="job-title">{{ volunteer.role }}</h3>
+        <div class="time">{{ volunteer.time }}</div>
+      </div><!--//upper-row-->
+
+      <div class="company">{{ volunteer.company }}</div>
+
+    </div><!--//meta-->
+
+  </div><!--//item-->
+  <!--      {% if volunteer.link %}-->
+  <!--      <li><a href="{{ volunteer.link }}">{{ volunteer.item }}</a></li>-->
+  <!--      {% else %}-->
+  <!--      <li>{{ volunteer.item }}</li>-->
+  <!--      {% endif %}-->
+
+  {% endfor %}
+  <!--  </ul>-->
 
 </div><!--//volunteering-->
 {% endif %}
